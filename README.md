@@ -12,7 +12,7 @@ Hello, my name is Penake Harntaweesompone or Tonkla welcome to my github profile
 ## Contract
 [official email] - st1849@roong-aroon.ac.th<br>
 [personal email] - hxuxyugi@gmail.com<br>
-[phone] - 0932545373<br>
+[phone] - +66 0932545373<br>
 
 <!--
 **PenakeHarntaweesompone/PenakeHarntaweesompone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
