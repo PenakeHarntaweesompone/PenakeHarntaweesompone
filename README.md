@@ -5,9 +5,7 @@ Hello, my name is Penake Harntaweesompone or Tonkla welcome to my github profile
 
 
 
-- 🔭 I’m currently working on Unity and already creating 3 games
-
-- 🌱 I’m currently learning on game development and have a goal to master Unreal Engine
+- 🌱 I’m currently learning on game development and have a goal to master Unity and Unreal engine
 
 ## Contract
 [official email] - st1849@roong-aroon.ac.th<br>
