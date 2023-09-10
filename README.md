@@ -1,7 +1,7 @@
 # Hi I'm Penake, this is my github profile
 
 
-Hello, my name is Penake Harntaweesompone or Tonkla welcome to my github profile. I'm currently a student in Roong Aroon school learning game development in studio of digital and technology under the help of teacher Nueng and teacher Ake. Right now I aim to enter KMUTT college, Creative Technology on DD-CT faculty and have a goal to study aboard to DigiPen Institute of Technology in United State.
+Hello, my name is Penake Harntaweesompone or Tonkla welcome to my github profile. I'm currently a student in Roong Aroon school learning game development in studio of digital and technology under the help of teacher Nueng and teacher Ake. Right now I aim to enter KMUTT college, Game Engineering on DD-CT faculty and have a goal to study aboard to DigiPen Institute of Technology in United State.
 
 
 
